@@ -1,7 +1,7 @@
 Problem Statement
 Create class Sim with below attributes: simId - int customerName - String balance - double ratePerSecond - double circle - String
 
-Create class Solution and implement static method "transferCircle" in the Solution class. This method will take array of Sim objects, circle1 String and circle2 string as parameters. And will return another Sim array where the circle1 matches with the circle parameter of the original Sim array and the circle parameter of the new array is set to circle2 and is also sorted by means of ratePerSecond attribute in desending order.
+Create class Solution1 and implement static method "transferCircle" in the Solution class. This method will take array of Sim objects, circle1 String and circle2 string as parameters. And will return another Sim array where the circle1 matches with the circle parameter of the original Sim array and the circle parameter of the new array is set to circle2 and is also sorted by means of ratePerSecond attribute in desending order.
 
 Write necessary getters and setters.
 
